@@ -1,6 +1,6 @@
 package Subject01;
 
-public class Test01 {
+public class Task01 {
 
 
     public static void main(String[] args) {
